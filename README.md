@@ -8,8 +8,8 @@
 
 <div style="display: flex; gap: 0 1em; align:'center'">
   
-<img height="165rem" src="https://github-readme-stats.vercel.app/api?username=beacastroalves&show_icons=false&theme=transparent&border_color=004b7a&title_color=2695da&text_color=F0FFFF">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeaCastroAlves&layout=compact&theme=transparent&border_color=004b7a&title_color=2695da&text_color=F0FFFF">
+<img height="165rem" src="https://github-readme-stats.vercel.app/api?username=beacastroalves&show_icons=false&theme=transparent&border_color=004b7a&title_color=2695da&text_color=c0c0c0">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeaCastroAlves&layout=compact&theme=transparent&border_color=004b7a&title_color=2695da&text_color=eeeeee">
 
 </div>
 
