@@ -8,7 +8,7 @@
 
 <div style="display: flex; gap: 0 1em; align:'center'">
   
-<img height="150rem" src="https://github-readme-stats.vercel.app/api?username=BeaCastroAlves&show_icons=true&icons_fill:FFFF&theme=transparent&border_color=004b7a&title_color=2695da&text_color=F0FFFF">
+<img height="165rem" src="https://github-readme-stats.vercel.app/api?username=beacastroalves&show_icons=false&theme=transparent&border_color=004b7a&title_color=2695da&text_color=F0FFFF">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeaCastroAlves&layout=compact&theme=transparent&border_color=004b7a&title_color=2695da&text_color=F0FFFF">
 
 </div>
@@ -28,7 +28,7 @@
   
 ## Front-End
 
-<div style="display: flex; flex-direction: rows; gap: 1em 1em; justify-content: space-between;">
+<div style="display: flex; flex-direction: rows;">
   
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)    ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
