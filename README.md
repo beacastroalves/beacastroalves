@@ -2,15 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b75ac&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you;My+name+is+Beatriz+Castro;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-<div align="center">
-  
-## GitHub Stats
-
-<div style="display: flex; gap: 0 1em; align:'center'">
-  
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=beacastroalves&show_icons=false&theme=transparent&border_color=004b7a&title_color=2695da&text_color=c0c0c0">
-
-</div>
 
 <div align="center">
   
@@ -18,9 +9,10 @@
 
 <div class="Panel-Contribuition" >
     <div>
-    <img height="250rem" src="https://github-readme-activity-graph.vercel.app/graph?username=BeaCastroAlves&bg_color=00000&color=F0FFFF&line=f0ffff&point=2695da&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+      <img height="250rem" src="https://github-readme-activity-graph.vercel.app/graph?username=BeaCastroAlves&bg_color=00000&color=F0FFFF&line=f0ffff&point=2695da&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
     </div>
 </div>
+
 </div>
 
 <div align="center">
@@ -31,12 +23,12 @@
   
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)    ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=1775bb) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react&logoColor=4ad5ff) ![VUEjs](https://img.shields.io/badge/VUEjs-000?style=for-the-badge&logo=vue.js&logoColor=41b883) 
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![ANGULAR](https://img.shields.io/badge/ANGULAR-000?style=for-the-badge&logo=angular&logoColor=cc3838)  ![REACT](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react&logoColor=4ad5ff) ![VUEjs](https://img.shields.io/badge/VUEjs-000?style=for-the-badge&logo=vue.js&logoColor=41b883) 
 
 ![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 ![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm&logoColor=cc3838)
-
 </div>
+
 </div>
 
 <div align="center">
